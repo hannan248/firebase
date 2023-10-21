@@ -1,6 +1,27 @@
 # note
 
-A new Flutter project.
+
+pakages used in this project
+
+  firebase_auth: ^4.10.1
+
+  
+  cloud_firestore: ^4.9.3
+
+  
+  firebase_core: ^2.17.0
+
+  
+  firebase_database: ^10.2.7
+
+  
+  firebase_storage: ^11.2.8
+
+  
+  lottie: ^2.6.0
+
+  
+  get: ^4.6.5t.
 
 ## Getting Started
 
